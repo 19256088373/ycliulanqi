@@ -1,4 +1,4 @@
-name: Cloud Browser via NoVNC
+name: wodeliulanqi
 
 on:
   workflow_dispatch:
